@@ -2,15 +2,8 @@ theme: minima
 title: Granular Thoughts
 author: Gamaliel Jeevan Dewanto
 description: My personal blog
-
-# Enable social links in the footer
 social_links:
-  - icon: "fab fa-instagram"
-    link: "https://www.instagram.com/jeevandewanto/"
-  - icon: "fab fa-linkedin"
-    link: "https://www.linkedin.com/in/gamaliel-jeevan-d-75b425106/"
-  - icon: "fab fa-github"
-    link: "https://github.com/jeevandewanto"
-  - icon: "fas fa-envelope"
-    link: "mailto:jeevan.dewanto@gmail.com"
-
+  instagram: "https://www.instagram.com/jeevandewanto/"
+  linkedin: "https://www.linkedin.com/in/gamaliel-jeevan-d-75b425106/"
+  github: "https://github.com/jeevandewanto"
+  email: "mailto:jeevan.dewanto@gmail.com"
