@@ -2,3 +2,9 @@ theme: minima
 title: Granular Thoughts
 author: Gamaliel Jeevan Dewanto
 description: My personal blog
+social_links:
+  instagram: "https://www.instagram.com/jeevandewanto/"
+  linkedin: "https://www.linkedin.com/in/gamaliel-jeevan-d-75b425106/"
+  github: "https://github.com/jeevandewanto"
+  email: "jeevan.dewanto@gmail.com"
+
