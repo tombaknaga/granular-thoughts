@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Granular Thoughts
 ---
 
-Test index
+Greetings! I'm Jeevan, an Indonesian PhD student doing mechanical engineering in Tokyo, Japan.
